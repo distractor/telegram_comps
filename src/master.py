@@ -1,5 +1,5 @@
 """
-Master file reads all urls and saves competitions to a JSON file.
+Master file downloads new competitions and sends messages to group.
 """
 import sys
 import requests
@@ -16,15 +16,14 @@ def get_url(url):
 
 def send_message(telegram_url, chat_id, message):
     """
-    Send message to telegram chat.
+    Send message to Telegram chat.
 
     Args:
         telegram_url (string): Telegram api.
         chat_id (int): Chat id.
         message (string): Message.
     """
-    url = "{}/sendMessage?chat_id={}&text={}".format(
-        telegram_url, chat_id, message)
+    url = "{}/sendMessage?chat_id={}&text={}".format(telegram_url, chat_id, message)
     get_url(url)
 
 
@@ -36,13 +35,13 @@ day_from_offset = sys.argv[3]
 comps = read_slocomps(day_from_offset)
 
 for comp in comps:
-    name = comp['node']['title_field']
+    name = comp['node']['Dogodek']
     event_start = comp['node']['Od']
     event_stop = comp['node']['Do']
-    take_off = comp['node']['Lokacija']
     country = comp['node']['Dr\u017eava']
-    msg = "New competition published on %s. '%s' will take place from %s to %s on %s (%s). Check %s for more info and registration." % (
-        'SloComps', name, event_start, event_stop, take_off, country, 'https://comps.sffa.org')
+    event_url = "https://comps.sffa.org/event/{}".format(name.replace(' ', '-').strip().lower())
+    msg = "New competition published on SloComps. Competition '%s' will take place from %s to %s in %s. Check %s for more info and registration." % (
+    name, event_start, event_stop, country, event_url)
 
     # Send message to group.
     response = send_message(telegram_api, chat_id, msg)
