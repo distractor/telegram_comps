@@ -1,56 +1,35 @@
 from bs4 import BeautifulSoup
 import requests
-from datetime import datetime
+import json
+import urllib.request
+from datetime import datetime, timedelta
 
-from classes.competition import Competition
 
-def readSlocomps(pages = 1):
-    """Skrap data from SloComps.
+def read_slocomps(day_from_offset):
+    """
+    Get data from SloComps.
 
     Returns:
-        list: List of competitions.
+        list: JSON list of competitions.
     """
-    url = 'https://comps.sffa.org'
-    
-    # Find page range.
-    page_response = requests.get(url)
-    page = BeautifulSoup(page_response.content, "html.parser")
-    page_range = int(page.find_all(class_ = 'pager-current')[0].text.strip().split(' of ')[1])
-    
-    # read from following urls
-    urls = [url if (i == 0) else url + "/?page=%d" % i for i in range(0, page_range + 1)]
-    
-    competitions = []
-    for url in urls:
-        page_response = requests.get(url)
-        page = BeautifulSoup(page_response.content, "html.parser")
-        data = page.find_all(class_ = "view-nc-calendar")
-        
-        for comps in data:
-            temp = comps.find_all(class_ = "nc-postcard-left-wrap")
-    
-            for comp in temp:
-                C = Competition()
-                
-                comp_name = comp.find("h4").string
-                C.SetName(comp_name)
-                
-                comp_url = url + comp.find("h4").find("a").get("href")
-                C.SetUrl(comp_url)
-                
-                comp_location = comp.find_all(class_ = "subi")[2].string.replace(" ", "")
-                C.SetLocation(comp_location)
-                
-                date = comp.find_all(class_ = "date-display-single")[0].string.split(".")
-                comp_start = datetime.strptime(date[0] + "-" + date[1] + "-" + date[2], '%d-%m-%Y')
-                C.SetStartDate(comp_start)
-                
-                date = comp.find_all(class_ = "date-display-single")[1].string.split(".")
-                comp_end = datetime.strptime(date[0] + "-" + date[1] + "-" + date[2], '%d-%m-%Y')
-                C.SetEndDate(comp_end)
-                
-                C.SetSport(0)
-    
-                competitions.append(C)
 
-    return competitions
+    # Read json from url and convert to json object.
+    with urllib.request.urlopen('https://comps.sffa.org/upcoming-json') as url:
+        competitions_json = json.loads(url.read().decode())
+
+    competitions_json = competitions_json['nodes']
+
+    # Get competitions published between day_from and today.
+    date_from = datetime.utcnow() + timedelta(days=int(day_from_offset))
+    new_competition_list = []
+
+    for comp_json in competitions_json:
+        date_published_str = comp_json['node']['Published']
+        date_published = datetime.strptime(
+            date_published_str, '%d.%m.%Y -  %H:%M')
+
+        if (date_published > date_from):
+            # New comp was added. Append to output list.
+            new_competition_list.append(comp_json)
+
+    return new_competition_list

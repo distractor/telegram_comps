@@ -1,71 +1,48 @@
 """
-Master file reads all urls and saves competitions to a JSON file
+Master file reads all urls and saves competitions to a JSON file.
 """
-import json
-import pandas as pd
+import sys
+import requests
 
-from readAirtribune import *
-from readLivetrack24 import *
-from readSlocomps import *
-from readPWCA import *
-from readPGCP import *
+from read_slocomps import read_slocomps
 
-comps = readSlocomps()
-N = len(comps)
-print('Imported %d competitions from Slocomps.' % N)
 
-# comps += readAirtribune()
-# print('Imported %d competitions from Airtribune.' % (len(comps) - N))
-# N = len(comps)
+def get_url(url):
+    response = requests.get(url)
+    content = response.content.decode("utf8")
 
-# comps += readLivetrack24()
-# print('Imported %d competitions from Livetrack24.' % (len(comps) - N))
-# N = len(comps)
+    return content
 
-# comps += readPWCA()
-# print('Imported %d competitions from PWCA.' % (len(comps) - N))
-# N = len(comps)
 
-# comps += readPGCP()
-# print('Imported %d competitions from PGCP.' % (len(comps) - N))
-# N = len(comps)
+def send_message(telegram_url, chat_id, message):
+    """
+    Send message to telegram chat.
 
-cols = ['Name', 'Timezone', 'StartDate', 'EndDate', 'Country',
-        'Location', 'Lat', 'Lon', 'url', 'Sport', 'Filled']
-Names = [comp.Name for comp in comps]
-Timezones = [comp.Timezone for comp in comps]
-StartDates = [comp.StartDate for comp in comps]
-EndDates = [comp.EndDate for comp in comps]
-Countries = [comp.Country for comp in comps]
-Locations = [comp.Location for comp in comps]
-Lats = [comp.Lat for comp in comps]
-Lons = [comp.Lon for comp in comps]
-Urls = [comp.url for comp in comps]
-Sports = [comp.Sport for comp in comps]
-Fill = [comp.Filled for comp in comps]
+    Args:
+        telegram_url (string): Telegram api.
+        chat_id (int): Chat id.
+        message (string): Message.
+    """
+    url = "{}/sendMessage?chat_id={}&text={}".format(
+        telegram_url, chat_id, message)
+    get_url(url)
 
-data = pd.DataFrame(list(zip(Names, Timezones, StartDates, EndDates,
-                             Countries, Locations, Lats, Lons, Urls, Sports, Fill)), columns=cols)
 
-# remove all that are not Paragliding competitions
-data = data.loc[data['Sport'] == 0]
+# Read run parameters.
+telegram_api = sys.argv[1]
+chat_id = sys.argv[2]
+day_from_offset = sys.argv[3]
 
-# Find duplicates by name
-#duplicates = data[data.duplicated(['Name'], keep = False)]
-# drop duplicates from original dataframe
-#data.drop_duplicates(['Name'], keep = False, inplace = True)
-# sort duplicates by filled factor
-#duplicates.sort_values(by = ['Filled'], ascending = False)
-# from duplicates by name only keep the first with the same start date
-#temp = duplicates
-#temp.drop_duplicates(['StartDate'], keep = 'first')
-# merge with original
-#data = pd.concat([data, temp])
+comps = read_slocomps(day_from_offset)
 
-# sort by date
-data.sort_values(by=['StartDate'])
+for comp in comps:
+    name = comp['node']['title_field']
+    event_start = comp['node']['Od']
+    event_stop = comp['node']['Do']
+    take_off = comp['node']['Lokacija']
+    country = comp['node']['Dr\u017eava']
+    msg = "New competition published on %s. '%s' will take place from %s to %s on %s (%s). Check %s for more info and registration." % (
+        'SloComps', name, event_start, event_stop, take_off, country, 'https://comps.sffa.org')
 
-# Save to JSON
-data.to_json('../data/out.json')
-print('Total competitions saved: %d' % data.shape[0])
-print('Saved to file ../json/out.json.')
+    # Send message to group.
+    response = send_message(telegram_api, chat_id, msg)
