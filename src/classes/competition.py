@@ -1,20 +1,9 @@
 class Competition:
 
     def __init__(self):
-        self.Name = ''
-        self.Timezone = ''
-        self.StartDate = ''
-        self.EndDate = ''
-        self.Country = ''
-        self.Location = ''
-        self.Lat = ''
-        self.Lon = ''
-        self.url = ''
-        self.Sport = ''
+        self.Name = 'Foo'
 
-        self.Filled = 0
-
-    def SetName(self, Name):
+    def set__name(self, Name):
         """Set competition name.
 
         Args:
@@ -23,7 +12,7 @@ class Competition:
         self.Name = Name
         self.Filled += 1
 
-    def SetTimezone(self, Timezone):
+    def set_timezone(self, Timezone):
         """Set timezone.
 
         Args:
@@ -32,16 +21,16 @@ class Competition:
         self.Timezone = Timezone
         self.Filled += 1
 
-    def SetStartDate(self, Date):
+    def set_start_date(self, Date):
         """Set competition start.
 
         Args:
             Date (DateTime): Competition start.
-        """ 
+        """
         self.StartDate = Date
         self.Filled += 1
 
-    def SetEndDate(self, Date):
+    def set_end_date(self, Date):
         """Set competition end.
 
         Args:
@@ -50,7 +39,7 @@ class Competition:
         self.EndDate = Date
         self.Filled += 1
 
-    def SetCountry(self, Country):
+    def set_country(self, Country):
         """Set competition country.
 
         Args:
@@ -59,7 +48,7 @@ class Competition:
         self.Country = Country
         self.Filled += 1
 
-    def SetLocation(self, Location):
+    def set_location(self, Location):
         """Set competition location
 
         Args:
@@ -68,21 +57,11 @@ class Competition:
         self.Location = Location
         self.Filled += 1
 
-    def SetLatitude(self, Latitude):
-        self.Lat = Latitude
-        self.Filled += 1
+    def set_url(self, url):
+        """Set competition url.
 
-    def SetLongitute(self, Longitude):
-        self.Lon = Longitude
-        self.Filled += 1
-
-    def SetUrl(self, url):
+        Args:
+            url (string): Competition url.
+        """
         self.url = url
         self.Filled += 1
-
-    def SetSport(self, ID):
-        self.Sport = ID  # 0 for XC paragliding
-        self.Filled += 1
-
-    def GetFullness(self):
-        return self.Filled
