@@ -9,7 +9,6 @@ from telegram_helper import *
 # Read run parameters.
 telegram_api = sys.argv[1]
 chat_id = sys.argv[2]
-minute_from_offset = sys.argv[3]
 
 # Read pages.
 messages = read_slocomps()
