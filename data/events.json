@@ -1,0 +1,2265 @@
+{
+  "nodes": [
+    {
+      "node": {
+        "Dogodek": "ParaSnowflake 2020/2021",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "17.10.2020",
+        "Do": "28.03.2021",
+        "Dr\u017eava": "",
+        "Published": "12.10.2020 - 11:51",
+        "Updated": "12.10.2020 - 11:59",
+        "Lokacija": "",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "2"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Kovk Open 2020",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "19.09.2020",
+        "Do": "20.09.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.08.2020 - 21:24",
+        "Updated": "16.09.2020 - 15:38",
+        "Lokacija": "Kovk, Budanje, Vipava",
+        "field_organization_ref": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Organizator": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Registration Status": "Closed",
+        "Spaces used": "40"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "SLOVENIAN OPEN 2020",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "07.09.2020",
+        "Do": "14.09.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "02.07.2020 - 18:49",
+        "Updated": "11.09.2020 - 12:47",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "228"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial Cup 2020",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "22.08.2020",
+        "Do": "28.08.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.05.2019 - 10:29",
+        "Updated": "27.08.2020 - 19:48",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "206"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Metuljmania Open 2020",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "01.08.2020",
+        "Do": "02.08.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.01.2020 - 11:24",
+        "Updated": "03.08.2020 - 10:36",
+        "Lokacija": "Lisca",
+        "field_organization_ref": "DJP Metulj",
+        "Organizator": "DJP Metulj",
+        "Registration Status": "Closed",
+        "Spaces used": "81"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Gorenjska Open 2020 - CANCELLED",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "17.07.2020",
+        "Do": "19.07.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "28.06.2020 - 21:22",
+        "Updated": "16.07.2020 - 21:23",
+        "Lokacija": "Gozd",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "32"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Croatian paragliding national championship 2020",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "01.07.2020",
+        "Do": "04.07.2020",
+        "Dr\u017eava": "Croatia",
+        "Published": "20.05.2020 - 07:39",
+        "Updated": "16.06.2020 - 13:31",
+        "Lokacija": "Buzet",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "57"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding XC Dalmatian Open 2020",
+        "Tip": "XC",
+        "Kat.": "",
+        "Od": "11.06.2020",
+        "Do": "14.06.2020",
+        "Dr\u017eava": "Croatia",
+        "Published": "19.01.2020 - 13:28",
+        "Updated": "19.01.2020 - 18:38",
+        "Lokacija": "Greda and Svilaja take offs (Hrvace municipality)",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "43"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Ivanec Open 2020",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "11.06.2020",
+        "Do": "15.06.2020",
+        "Dr\u017eava": "Croatia",
+        "Published": "06.02.2020 - 10:43",
+        "Updated": "14.06.2020 - 10:47",
+        "Lokacija": "Ivanec, Croatia",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "87"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Adrenalin cup 2020 CANCELED ",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "29.05.2020",
+        "Do": "01.06.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "04.02.2020 - 14:33",
+        "Updated": "14.05.2020 - 11:31",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Open",
+        "Spaces used": "98"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Dobr\u010da Open 2020 - CANCELLED!!!",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "04.04.2020",
+        "Do": "05.04.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.02.2020 - 09:56",
+        "Updated": "16.03.2020 - 10:21",
+        "Lokacija": "Begunje na Gorenjskem",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "71"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "LISCA OPEN 2020 - CANCELLED",
+        "Tip": "Liga 2020",
+        "Kat.": "FAI2",
+        "Od": "26.03.2020",
+        "Do": "29.03.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "10.02.2020 - 09:56",
+        "Updated": "16.03.2020 - 10:49",
+        "Lokacija": "Lisca, Kopitnik",
+        "field_organization_ref": "Dru\u0161tvo jadralnih padalcev Lintvar",
+        "Organizator": "Dru\u0161tvo jadralnih padalcev Lintvar",
+        "Registration Status": "Closed",
+        "Spaces used": "116"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup 2020",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "06.03.2020",
+        "Do": "11.03.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "30.01.2020 - 08:50",
+        "Updated": "13.02.2020 - 08:53",
+        "Lokacija": "Nova Gorica, Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "226"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "ParaglidingWinterCup - SnowFlake 2019/20",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "05.10.2019",
+        "Do": "01.03.2020",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.09.2019 - 12:50",
+        "Updated": "08.10.2020 - 21:52",
+        "Lokacija": "SLO",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "87"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "CZECH, SLOVAK, LITHUANIAN OPEN 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "25.08.2019",
+        "Do": "31.08.2019",
+        "Dr\u017eava": "",
+        "Published": "11.04.2019 - 12:27",
+        "Updated": "03.09.2019 - 14:18",
+        "Lokacija": "",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "185"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Metuljmania Open 2019",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "03.08.2019",
+        "Do": "04.08.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "24.04.2019 - 21:43",
+        "Updated": "05.08.2019 - 08:17",
+        "Lokacija": "Lisca",
+        "field_organization_ref": "DJP Metulj",
+        "Organizator": "DJP Metulj",
+        "Registration Status": "Closed",
+        "Spaces used": "37"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Koro\u0161ka Open 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "20.07.2019",
+        "Do": "21.07.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.04.2019 - 08:59",
+        "Updated": "18.07.2019 - 19:07",
+        "Lokacija": "Ur\u0161lja gora",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "45"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding XC Dalmatian Open 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "11.07.2019",
+        "Do": "14.07.2019",
+        "Dr\u017eava": "Croatia",
+        "Published": "15.02.2019 - 13:32",
+        "Updated": "14.07.2019 - 11:44",
+        "Lokacija": "Greda, Hrvace",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "24"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "17th RATITOVEC OPEN 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "27.06.2019",
+        "Do": "01.07.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "11.04.2019 - 13:46",
+        "Updated": "04.07.2019 - 18:54",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Open",
+        "Spaces used": "77"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "\u0160tajerska Open 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "08.06.2019",
+        "Do": "09.06.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.04.2019 - 08:53",
+        "Updated": "10.06.2019 - 07:58",
+        "Lokacija": "Golte",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "47"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Adrenalin Cup 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "30.05.2019",
+        "Do": "02.06.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "16.03.2019 - 11:06",
+        "Updated": "02.06.2019 - 19:45",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Open",
+        "Spaces used": "201"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Bela krajina Open 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "18.05.2019",
+        "Do": "19.05.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.04.2019 - 08:39",
+        "Updated": "23.04.2019 - 21:00",
+        "Lokacija": "Semi\u010d",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "42"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley - Slovenian Open 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "27.04.2019",
+        "Do": "02.05.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.03.2019 - 06:46",
+        "Updated": "03.05.2019 - 09:20",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "155"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Kranjska Gora Open 2019 pre PGAWC",
+        "Tip": "PGA",
+        "Kat.": "FAI2",
+        "Od": "06.04.2019",
+        "Do": "07.04.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "17.05.2016 - 20:54",
+        "Updated": "17.04.2019 - 20:12",
+        "Lokacija": "Kranjska Gora",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "24"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Lisca Open 2019",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "29.03.2019",
+        "Do": "31.03.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "22.01.2019 - 14:29",
+        "Updated": "31.03.2019 - 18:59",
+        "Lokacija": "Lisca",
+        "field_organization_ref": "Dru\u0161tvo jadralnih padalcev Lintvar",
+        "Organizator": "Dru\u0161tvo jadralnih padalcev Lintvar",
+        "Registration Status": "Closed",
+        "Spaces used": "100"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup 2019",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "01.03.2019",
+        "Do": "06.03.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.01.2019 - 08:59",
+        "Updated": "03.03.2019 - 17:39",
+        "Lokacija": "Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "219"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga preleti 2019",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "01.03.2019",
+        "Do": "04.08.2019",
+        "Dr\u017eava": "Slovenia",
+        "Published": "12.12.2018 - 16:57",
+        "Updated": "10.06.2019 - 08:45",
+        "Lokacija": "Tolmin, Lijak, Lisca, Kopitnik, Golte, Gozd, Ur\u0161lja Gora, Gemona, Smuk, Kobarid",
+        "field_organization_ref": "Letalska zveza Slovenije",
+        "Organizator": "Letalska zveza Slovenije",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": " 6th FAI Paragliding Accuracy European Championship",
+        "Tip": "PGA",
+        "Kat.": "FAI1",
+        "Od": "15.09.2018",
+        "Do": "22.09.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "12.03.2018 - 10:00",
+        "Updated": "31.08.2018 - 12:38",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "125"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial cup Slovenia 2018",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "24.08.2018",
+        "Do": "30.08.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.01.2018 - 12:46",
+        "Updated": "02.09.2018 - 11:15",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "166"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Dalmatian Open 2018",
+        "Tip": "Liga 2018",
+        "Kat.": "FAI2",
+        "Od": "24.05.2018",
+        "Do": "27.05.2018",
+        "Dr\u017eava": "Croatia",
+        "Published": "14.12.2017 - 16:48",
+        "Updated": "27.05.2018 - 16:52",
+        "Lokacija": "Hrvace",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "100"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Alpen Cup 2018",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "17.05.2018",
+        "Do": "20.05.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.02.2018 - 14:59",
+        "Updated": "21.05.2018 - 09:18",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "219"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga preleti 2018",
+        "Tip": "Liga 2018",
+        "Kat.": "",
+        "Od": "01.05.2018",
+        "Do": "07.08.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "19.04.2018 - 00:36",
+        "Updated": "28.05.2018 - 20:46",
+        "Lokacija": "Lijak, Kobala, Hrvace, Ni\u0161, Ratitovec",
+        "field_organization_ref": "Letalska zveza Slovenije",
+        "Organizator": "Letalska zveza Slovenije",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley 2018",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "27.04.2018",
+        "Do": "30.04.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.01.2018 - 12:40",
+        "Updated": "01.05.2018 - 08:21",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "181"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding winter cup 2018",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "13.04.2018",
+        "Do": "18.04.2018",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.01.2018 - 08:55",
+        "Updated": "16.04.2018 - 11:13",
+        "Lokacija": "Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "181"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial cup 2017",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "04.09.2017",
+        "Do": "09.09.2017",
+        "Dr\u017eava": "Slovenia",
+        "Published": "12.07.2017 - 08:09",
+        "Updated": "08.09.2017 - 22:54",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "230"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "12. Liga ADRENALIN Kobarid 2017",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "11.08.2017",
+        "Do": "13.08.2017",
+        "Dr\u017eava": "Slovenia",
+        "Published": "21.02.2017 - 19:59",
+        "Updated": "01.08.2017 - 09:58",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Open",
+        "Spaces used": "58"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Hungarian & Lithuanian & Slovenian Open 2017",
+        "Tip": "Liga 2017",
+        "Kat.": "FAI2",
+        "Od": "23.07.2017",
+        "Do": "29.07.2017",
+        "Dr\u017eava": "Slovenia",
+        "Published": "04.01.2017 - 11:48",
+        "Updated": "31.07.2017 - 19:35",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Open",
+        "Spaces used": "250"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley 2017",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "27.04.2017",
+        "Do": "30.04.2017",
+        "Dr\u017eava": "Slovenia",
+        "Published": "30.03.2017 - 08:07",
+        "Updated": "02.05.2017 - 20:15",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "126"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding winter cup - Buzet",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "01.04.2017",
+        "Do": "06.04.2017",
+        "Dr\u017eava": "Croatia",
+        "Published": "18.02.2017 - 20:59",
+        "Updated": "05.04.2017 - 10:14",
+        "Lokacija": "Buzet",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "97"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding winter cup 2017",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "11.03.2017",
+        "Do": "16.03.2017",
+        "Dr\u017eava": "Slovenia",
+        "Published": "17.01.2017 - 08:20",
+        "Updated": "11.03.2017 - 22:23",
+        "Lokacija": "Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "181"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green Challenge Vipavska dolina",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "03.12.2016",
+        "Do": "03.12.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "09.11.2016 - 09:08",
+        "Updated": "02.12.2016 - 10:37",
+        "Lokacija": "Vipavska dolina",
+        "field_organization_ref": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Organizator": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Registration Status": "Closed",
+        "Spaces used": "1"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial cup 2016",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "10.09.2016",
+        "Do": "15.09.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "10.03.2016 - 21:57",
+        "Updated": "12.07.2017 - 08:20",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "187"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Hike & Fly Lijak Testival - ODPOVEDANO",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "10.09.2016",
+        "Do": "10.09.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.08.2016 - 09:11",
+        "Updated": "07.10.2016 - 07:11",
+        "Lokacija": "Lijak, Nova Gorica",
+        "field_organization_ref": "Polet Nova Gorica",
+        "Organizator": "Polet Nova Gorica",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "No Limit Poto\u0161ka Gora - H&F sre\u010danje",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "04.09.2016",
+        "Do": "04.09.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "29.12.2015 - 07:02",
+        "Updated": "17.08.2016 - 07:38",
+        "Lokacija": "Preddvor",
+        "field_organization_ref": "Kimfly ",
+        "Organizator": "Kimfly ",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Junior Challenge Tolmin",
+        "Tip": "XC",
+        "Kat.": "",
+        "Od": "24.08.2016",
+        "Do": "28.08.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "04.03.2016 - 07:27",
+        "Updated": "04.03.2016 - 07:50",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "Deutsche Hangegleiterverband",
+        "Organizator": "Deutsche Hangegleiterverband",
+        "Registration Status": "Open",
+        "Spaces used": "2"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "16th Ratitovec Open 2016",
+        "Tip": "Liga 2016",
+        "Kat.": "FAI2",
+        "Od": "07.07.2016",
+        "Do": "10.07.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.03.2016 - 08:41",
+        "Updated": "11.07.2016 - 16:29",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "128"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "11. Liga ADRENALIN Kobarid 2016",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "01.07.2016",
+        "Do": "03.07.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "24.03.2016 - 08:42",
+        "Updated": "02.07.2016 - 15:45",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "34"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Zeleni izziv Vitranc 2016 - CANCELLED",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "18.06.2016",
+        "Do": "18.06.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "29.12.2015 - 06:55",
+        "Updated": "17.06.2016 - 09:32",
+        "Lokacija": "Kranjska Gora",
+        "field_organization_ref": "Agencija Julijana",
+        "Organizator": "Agencija Julijana",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley 2016",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "12.06.2016",
+        "Do": "16.06.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "10.03.2016 - 20:53",
+        "Updated": "01.06.2016 - 19:26",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "126"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Junior Challenge Greifenburg",
+        "Tip": "XC",
+        "Kat.": "",
+        "Od": "18.05.2016",
+        "Do": "22.05.2016",
+        "Dr\u017eava": "Austria",
+        "Published": "03.03.2016 - 12:54",
+        "Updated": "10.05.2016 - 13:30",
+        "Lokacija": "Greifenburg",
+        "field_organization_ref": "Deutsche Hangegleiterverband",
+        "Organizator": "Deutsche Hangegleiterverband",
+        "Registration Status": "Open",
+        "Spaces used": "8"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Karavanke Open 2016",
+        "Tip": "Liga 2016",
+        "Kat.": "FAI2",
+        "Od": "21.04.2016",
+        "Do": "24.04.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "11.02.2016 - 12:20",
+        "Updated": "23.04.2016 - 18:53",
+        "Lokacija": "Krvavec",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Open",
+        "Spaces used": "111"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding winter cup 2016",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "05.03.2016",
+        "Do": "09.03.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "17.12.2015 - 07:09",
+        "Updated": "08.03.2016 - 09:23",
+        "Lokacija": "Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "158"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Hike & fly Kovk",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "06.02.2016",
+        "Do": "07.02.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "29.12.2015 - 06:49",
+        "Updated": "05.02.2016 - 10:14",
+        "Lokacija": "Ajdov\u0161\u010dina",
+        "field_organization_ref": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Organizator": "Dru\u0161tvo jadralnih padalcev Kovk",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Ski & fly Kranjska Gora",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "24.01.2016",
+        "Do": "24.01.2016",
+        "Dr\u017eava": "Slovenia",
+        "Published": "29.12.2015 - 06:35",
+        "Updated": "18.01.2016 - 18:02",
+        "Lokacija": "Kranjska Gora",
+        "field_organization_ref": "Agencija Julijana",
+        "Organizator": "Agencija Julijana",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2015 - No limit",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "24.10.2015",
+        "Do": "24.10.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "17.09.2015 - 09:34",
+        "Updated": "16.10.2015 - 12:54",
+        "Lokacija": "Preddvor",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2015 - Gabrje",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "19.09.2015",
+        "Do": "19.09.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "19.02.2015 - 15:12",
+        "Updated": "19.09.2015 - 13:42",
+        "Lokacija": "Gabrje",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "1"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial cup 2015",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "31.08.2015",
+        "Do": "06.09.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.05.2015 - 21:05",
+        "Updated": "04.09.2015 - 07:16",
+        "Lokacija": "Camp Gabrje, Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "154"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Slovenian Serbian Paragliding Open 2015",
+        "Tip": "Liga 2015",
+        "Kat.": "FAI2",
+        "Od": "11.07.2015",
+        "Do": "18.07.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "24.04.2015 - 10:10",
+        "Updated": "19.07.2015 - 18:33",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Open",
+        "Spaces used": "93"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "10. Liga ADRENALIN Kobarid 2015   \"So\u010da Outdoor festival 2015\"",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "01.07.2015",
+        "Do": "05.07.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.01.2015 - 17:57",
+        "Updated": "14.06.2015 - 09:57",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Open",
+        "Spaces used": "56"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "15th Ratitovec Open 2015",
+        "Tip": "Liga 2015",
+        "Kat.": "FAI2",
+        "Od": "25.06.2015",
+        "Do": "28.06.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.03.2015 - 11:10",
+        "Updated": "14.03.2016 - 09:03",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "88"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2015 - Kranjska Gora",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "13.06.2015",
+        "Do": "13.06.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.10.2014 - 19:44",
+        "Updated": "16.06.2015 - 06:50",
+        "Lokacija": "Kranjska gora - Gostilna pri Martinu",
+        "field_organization_ref": "Kimfly ",
+        "Organizator": "Kimfly ",
+        "Registration Status": "Open",
+        "Spaces used": "14"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley 2015",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "24.04.2015",
+        "Do": "29.04.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "13.03.2015 - 07:35",
+        "Updated": "17.03.2015 - 10:07",
+        "Lokacija": "Camp Gabrje, Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "93"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding winter cup 2015",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "25.03.2015",
+        "Do": "29.03.2015",
+        "Dr\u017eava": "Slovenia",
+        "Published": "03.11.2014 - 21:48",
+        "Updated": "31.03.2015 - 07:47",
+        "Lokacija": "Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Open",
+        "Spaces used": "164"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "25.09.2014",
+        "Do": "28.09.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "25.09.2014 - 02:00",
+        "Updated": "03.11.2014 - 22:46",
+        "Lokacija": "Camp Gabrje",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "207"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial Cup 2014",
+        "Tip": "XC",
+        "Kat.": "FAI2",
+        "Od": "02.09.2014",
+        "Do": "06.09.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "02.09.2014 - 02:00",
+        "Updated": "27.05.2015 - 21:07",
+        "Lokacija": "Camp Gabrje",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "250"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin / So\u010da Outdoor Festival 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "04.07.2014",
+        "Do": "06.07.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "04.07.2014 - 02:00",
+        "Updated": "13.11.2014 - 09:41",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "76"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "14th Ratitovec Open 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "26.06.2014",
+        "Do": "29.06.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "26.06.2014 - 02:00",
+        "Updated": "13.11.2014 - 09:42",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "102"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Polish And Lithuanian Paragliding Open Championship",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "08.06.2014",
+        "Do": "14.06.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "08.06.2014 - 02:00",
+        "Updated": "13.11.2014 - 09:46",
+        "Lokacija": "Tolmin, Soca Valley",
+        "field_organization_ref": "Polish Paragliding Association",
+        "Organizator": "Polish Paragliding Association",
+        "Registration Status": "Closed",
+        "Spaces used": "197"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parasmuk Open 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "09.05.2014",
+        "Do": "11.05.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "09.05.2014 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Smuk, Semi\u010d",
+        "field_organization_ref": "Djp Cumulus ",
+        "Organizator": "Djp Cumulus ",
+        "Registration Status": "Closed",
+        "Spaces used": "42"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parastajerka2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "25.04.2014",
+        "Do": "27.04.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "25.04.2014 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Frankolovo",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "46"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2014 - Preddvor",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "12.04.2014",
+        "Do": "12.04.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.02.2015 - 19:04",
+        "Updated": "23.02.2015 - 19:35",
+        "Lokacija": "Preddvor",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "26.03.2014",
+        "Do": "30.03.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "26.03.2014 - 01:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak, Nova Gorica",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "161"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Croatian And Slovenian National Paragliding Accuracy Landing Championship - Radoboj Open 2014",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "15.03.2014",
+        "Do": "16.03.2014",
+        "Dr\u017eava": "Slovenia",
+        "Published": "15.03.2014 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Radoboj ,Croatia",
+        "field_organization_ref": "Darko Poto\u010dki",
+        "Organizator": "Darko Poto\u010dki",
+        "Registration Status": "Closed",
+        "Spaces used": "58"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin Kobarid 2013",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "19.09.2013",
+        "Do": "21.09.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "20.09.2013 - 00:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "68"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial Cup 2013",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "03.09.2013",
+        "Do": "08.09.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "03.09.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Tolmin, Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "201"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2013 - Ambro\u017e",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "31.08.2013",
+        "Do": "31.08.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.02.2015 - 18:47",
+        "Updated": "23.02.2015 - 18:47",
+        "Lokacija": "Ambro\u017e",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Slovenian - Croatian Open 2013",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "28.07.2013",
+        "Do": "02.08.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "28.07.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Tolmin, Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "133"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "13th Ratitovec Open 2013",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "13.06.2013",
+        "Do": "16.06.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "13.06.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "141"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "27.04.2013",
+        "Do": "30.04.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.04.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Camp Gabrje, Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "154"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Para\u0160tajerka 2013",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "19.04.2013",
+        "Do": "19.05.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "19.04.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Frankolovo",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "57"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "06.03.2013",
+        "Do": "10.03.2013",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.03.2013 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Nova Gorica (lijak), Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "199"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2012 - Krvavec",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "11.11.2012",
+        "Do": "11.11.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.02.2015 - 18:41",
+        "Updated": "23.02.2015 - 18:41",
+        "Lokacija": "Krvavec",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serial Cup",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "26.08.2012",
+        "Do": "01.09.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "26.08.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "191"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin Kobarid / Outdoor Show 2012",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "27.07.2012",
+        "Do": "29.07.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.07.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid, Slovenija",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "77"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Istra Open 2012",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "01.07.2012",
+        "Do": "07.07.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "01.07.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Buzet - Ro\u010d",
+        "field_organization_ref": "Ksl Ti\u00e6i Buzet",
+        "Organizator": "Ksl Ti\u00e6i Buzet",
+        "Registration Status": "Closed",
+        "Spaces used": "109"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "12th Ratitovec Open 2012",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "21.06.2012",
+        "Do": "24.06.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "21.06.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "126"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parasmuk Open 2012",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "08.06.2012",
+        "Do": "10.06.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "08.06.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Smuk, Semi\u010d",
+        "field_organization_ref": "Djp Cumulus Semi\u010d",
+        "Organizator": "Djp Cumulus Semi\u010d",
+        "Registration Status": "Closed",
+        "Spaces used": "45"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Soca Open Valley",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "27.04.2012",
+        "Do": "30.04.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.04.2012 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "116"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "\u0160tajerka2012",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "31.03.2012",
+        "Do": "31.10.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "31.03.2012 - 02:00",
+        "Updated": "25.09.2020 - 13:18",
+        "Lokacija": "\u0160tajerska",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "46"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "24.03.2012",
+        "Do": "27.03.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "24.03.2012 - 09:18",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak, Buzet, Tribalj",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "169"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Winter Go-to Flying",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "03.12.2011",
+        "Do": "15.01.2012",
+        "Dr\u017eava": "Slovenia",
+        "Published": "03.12.2011 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Slo",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "17"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2011 - Kamni\u0161ki vrh",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "11.11.2011",
+        "Do": "11.11.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.02.2015 - 18:36",
+        "Updated": "23.02.2015 - 18:36",
+        "Lokacija": "Ambro\u017e",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Serialcup",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "28.08.2011",
+        "Do": "03.09.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "28.08.2011 - 07:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Tolmin, Slovenia",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "176"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Lithuanian & Polish championships 2011 - Jelkin Hram Open",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "21.08.2011",
+        "Do": "27.08.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "21.08.2011 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid, Slovenija",
+        "field_organization_ref": "Sportin D.o.o.",
+        "Organizator": "Sportin D.o.o.",
+        "Registration Status": "Closed",
+        "Spaces used": "137"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Kru\u0161evo Open 2011",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "06.08.2011",
+        "Do": "13.08.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.08.2011 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kru\u0161evo",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "160"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parasmuk Open 2011",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "05.07.2011",
+        "Do": "05.08.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.07.2011 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Semi\u010d",
+        "field_organization_ref": "Djp Cumulus ",
+        "Organizator": "Djp Cumulus ",
+        "Registration Status": "Closed",
+        "Spaces used": "44"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "11th Ratitovec Open 2011",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "23.06.2011",
+        "Do": "26.06.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.06.2011 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "\u017delezniki, Slovenija",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "89"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin Kobarid 2011 \"outdoor Show 2011\"",
+        "Tip": "Liga 2011",
+        "Kat.": "FAI2",
+        "Od": "20.05.2011",
+        "Do": "22.05.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "20.05.2011 - 02:46",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid, Slovenija",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "70"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Green challenge 2011 - Kri\u0161ka gora",
+        "Tip": "Hike & fly",
+        "Kat.": "",
+        "Od": "05.05.2011",
+        "Do": "05.05.2011",
+        "Dr\u017eava": "",
+        "Published": "23.02.2015 - 18:15",
+        "Updated": "23.02.2015 - 18:26",
+        "Lokacija": "",
+        "field_organization_ref": "Kimfly ",
+        "Organizator": "Kimfly ",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "23.10.2010",
+        "Do": "14.04.2011",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.10.2010 - 21:49",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak, Kovk, Buzet, Tribalj, Tolmin",
+        "field_organization_ref": "\u0160portni Klub Lep Oblak",
+        "Organizator": "\u0160portni Klub Lep Oblak",
+        "Registration Status": "Closed",
+        "Spaces used": "110"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Slovenian OPEN 2010",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "22.08.2010",
+        "Do": "29.08.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "22.08.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "123"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Jelkin Hram & Dutch Xc Open Paragliding 2010",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "15.08.2010",
+        "Do": "21.08.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "15.08.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid, Slovenia",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "156"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "10th Ratitovec Open 2010 ",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "01.07.2010",
+        "Do": "04.07.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "01.07.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "\u017delezniki",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "102"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin Kobarid 2010: Outdoor Show 2010",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "20.05.2010",
+        "Do": "22.05.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "20.05.2010 - 19:48",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobarid, Slovenia",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "83"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Metuljmania 2010",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "14.05.2010",
+        "Do": "15.05.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.05.2010 - 03:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "La\u0160ko",
+        "field_organization_ref": "DJP Metulj",
+        "Organizator": "DJP Metulj",
+        "Registration Status": "Closed",
+        "Spaces used": "49"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parasmuk Open 2010",
+        "Tip": "Liga 2010",
+        "Kat.": "",
+        "Od": "08.05.2010",
+        "Do": "09.05.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "08.05.2010 - 08:09",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Semi\u010d",
+        "field_organization_ref": "Djp Cumulus ",
+        "Organizator": "Djp Cumulus ",
+        "Registration Status": "Closed",
+        "Spaces used": "45"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Lijak",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "23.04.2010",
+        "Do": "25.04.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.04.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "Polet Nova Gorica",
+        "Organizator": "Polet Nova Gorica",
+        "Registration Status": "Closed",
+        "Spaces used": "32"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup: Warm (c)up Festival",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "06.03.2010",
+        "Do": "07.03.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.03.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Vipavska Dolina",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "94"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup: Heroic Coldness",
+        "Tip": "Liga 2010",
+        "Kat.": "FAI2",
+        "Od": "06.02.2010",
+        "Do": "08.02.2010",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.02.2010 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Vipavska Dolina",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "87"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup: Last Landing",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "28.11.2009",
+        "Do": "29.11.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "28.11.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Vipavska Dolina",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "67"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup: Is Coming Soon",
+        "Tip": "",
+        "Kat.": "FAI2",
+        "Od": "14.11.2009",
+        "Do": "15.11.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.11.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Vipavska Dolina",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "72"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Lijak",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "19.09.2009",
+        "Do": "20.09.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "19.09.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "Polet Nova Gorica",
+        "Organizator": "Polet Nova Gorica",
+        "Registration Status": "Closed",
+        "Spaces used": "44"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Polish Championship, Jelkin Hram Open 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "23.08.2009",
+        "Do": "29.08.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.08.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Stol - Kobarid, Slovenia",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "173"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Slo Open 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "27.06.2009",
+        "Do": "04.07.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.06.2009 - 02:24",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Ratitovec",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "200"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Ratitovec Open 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "18.06.2009",
+        "Do": "21.06.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.06.2009 - 02:24",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Ratitovec",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "180"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Liga Adrenalin - Outdoor Show 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "19.05.2009",
+        "Do": "22.05.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "20.05.2009 - 01:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kobaird",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "76"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Parasmuk Open 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "08.05.2009",
+        "Do": "09.05.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "09.05.2009 - 01:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Smuk, Semi\u010d",
+        "field_organization_ref": "Djp Cumulus Semi\u010d",
+        "Organizator": "Djp Cumulus Semi\u010d",
+        "Registration Status": "Open",
+        "Spaces used": "70"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Metuljmania Open 09",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "24.04.2009",
+        "Do": "26.04.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "24.04.2009 - 03:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lisca",
+        "field_organization_ref": "DJP Metulj",
+        "Organizator": "DJP Metulj",
+        "Registration Status": "Closed",
+        "Spaces used": "70"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "6. Paragliding Winter Cup - Warm (c)up",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "27.03.2009",
+        "Do": "29.03.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "27.03.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "98"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "5. Paragliding Winter Cup - No Name",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "15.03.2009",
+        "Do": "16.03.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "15.03.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Buzet",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "88"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "4. Paragliding Winter Cup - Snow princess",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "28.02.2009",
+        "Do": "01.03.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "28.02.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "91"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "3. Paragliding Winter Cup - Heroic Coldness",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "14.02.2009",
+        "Do": "15.02.2009",
+        "Dr\u017eava": "Slovenia",
+        "Published": "14.02.2009 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kovk",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "87"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding Winter Cup 2009",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "05.12.2008",
+        "Do": "06.12.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "06.12.2008 - 00:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Buzet",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "57"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "1. Paragliding Winter Cup - Beging",
+        "Tip": "Liga 2009",
+        "Kat.": "FAI2",
+        "Od": "29.11.2008",
+        "Do": "30.11.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "29.11.2008 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lijak",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "68"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Slovenian Championship - Jelkin Hram Open 2008",
+        "Tip": "Liga 2008",
+        "Kat.": "FAI2",
+        "Od": "23.08.2008",
+        "Do": "30.08.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "23.08.2008 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Stol - Kobarid",
+        "field_organization_ref": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Organizator": "Dru\u0161tvo Adrenalin Paragliding Team Gornje Poso\u010dje",
+        "Registration Status": "Closed",
+        "Spaces used": "247"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "8 th Ratitovec Open 2008",
+        "Tip": "Liga 2008",
+        "Kat.": "FAI2",
+        "Od": "25.06.2008",
+        "Do": "28.06.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "25.06.2008 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Ratitovec-krvavec",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "165"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Buzet Open 2008",
+        "Tip": "Liga 2008",
+        "Kat.": "",
+        "Od": "15.05.2008",
+        "Do": "18.05.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "15.05.2008 - 02:01",
+        "Updated": "04.11.2014 - 21:26",
+        "Lokacija": "Buzet",
+        "field_organization_ref": "Ksl Ti\u00e6i Buzet",
+        "Organizator": "Ksl Ti\u00e6i Buzet",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "ParaSmuk Open 2008",
+        "Tip": "Liga 2008",
+        "Kat.": "FAI2",
+        "Od": "26.04.2008",
+        "Do": "27.04.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "26.04.2008 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Smuk",
+        "field_organization_ref": "Djp Cumulus Semi\u010d",
+        "Organizator": "Djp Cumulus Semi\u010d",
+        "Registration Status": "Closed",
+        "Spaces used": "59"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Metuljmania Open 08",
+        "Tip": "Liga 2008",
+        "Kat.": "FAI2",
+        "Od": "18.04.2008",
+        "Do": "20.04.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "18.04.2008 - 02:00",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Lisca",
+        "field_organization_ref": "DJP Metulj",
+        "Organizator": "DJP Metulj",
+        "Registration Status": "Closed",
+        "Spaces used": "78"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "Paragliding WARM (C)UP",
+        "Tip": "Liga 2008",
+        "Kat.": "FAI2",
+        "Od": "05.04.2008",
+        "Do": "06.04.2008",
+        "Dr\u017eava": "Slovenia",
+        "Published": "05.04.2008 - 02:01",
+        "Updated": "25.10.2014 - 13:01",
+        "Lokacija": "Kovk, Lijak",
+        "field_organization_ref": "KJP Krokar \u017delezniki",
+        "Organizator": "KJP Krokar \u017delezniki",
+        "Registration Status": "Closed",
+        "Spaces used": "114"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "XC FAI Dalmatian PG Open 20118 ",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "",
+        "Do": "",
+        "Dr\u017eava": "Croatia",
+        "Published": "15.12.2017 - 19:30",
+        "Updated": "15.12.2017 - 19:30",
+        "Lokacija": "Hrvace-Sinj take off GREDA-SVILAJA",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "XC Paragliding Dalmatian open 2019",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "",
+        "Do": "",
+        "Dr\u017eava": "",
+        "Published": "15.02.2019 - 20:08",
+        "Updated": "15.02.2019 - 20:09",
+        "Lokacija": "",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "XC FAI Dalmatian PG Open 20118 ",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "",
+        "Do": "",
+        "Dr\u017eava": "Croatia",
+        "Published": "15.12.2017 - 19:30",
+        "Updated": "15.12.2017 - 19:30",
+        "Lokacija": "Hrvace-Sinj take off GREDA-SVILAJA",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    }
+  ]
+}
