@@ -15,4 +15,5 @@ messages = read_slocomps()
 
 # Send messages to group.
 for msg in messages:
-    send_message(telegram_api, chat_id, msg)
+    print(msg)
+    # send_message(telegram_api, chat_id, msg)

@@ -30,10 +30,11 @@ def report_updated_registration(json_obj):
         string: Message.
     """
     name = json_obj['Dogodek']
+    registration_status = json_obj['Registration Status']
     event_url = "https://comps.sffa.org/event/{}".format(
         name.replace(' ', '-').strip().lower())
-    msg = "New _SloComps_ notification: Registrations for *{}* are now *open*. Check {} for more info.".format(
-        name, event_url)
+    msg = "New _SloComps_ notification: Registrations for *{}* are now *{}*. Check {} for more info.".format(
+        name, registration_status, event_url)
 
     return msg
 
@@ -56,54 +57,73 @@ def report_new_event(json_obj):
     registration_status = json_obj['Registration Status']
     event_url = "https://comps.sffa.org/event/{}".format(
         name.replace(' ', '-').strip().lower())
-    msg = "New _SloComps_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Check {} for more info.".format(
-        name, event_start, event_stop, location, country, event_url)
+    msg = "New _SloComps_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Registrations are _{}_. Check {} for more info.".format(
+        name, event_start, event_stop, location, country, registration_status, event_url)
 
     return msg
 
 
 def read_slocomps():
     """
-    Get list of events from slocomps.
+    Get list of events from SloComps.
 
     Returns:
         list: List of telegram messages.
     """
     # Download data.
-    with urllib.request.urlopen('https://comps.sffa.org/calendar') as url:
-        comps_json = json.loads(url.read().decode())
+    login_url = 'https://comps.sffa.org/user/login'
+    request_utl = 'https://comps.sffa.org/calendar'
 
-        if not path.exists('data/events.json'):
-            save_json_to_file('data/events.json', comps_json)
+    payload = {
+        'name': 'telegram-bot',
+        'pass': 'vjUD`<bWen*9UdBz',
+        'form_build_id': 'form-YtrArwGYXwquwFw-38gr0VbCC_MD2hzfbpugAcFRyrY',
+        'form_id': 'user_login',
+        'op': 'Log+in'
+    }
+
+    base_directory = ''
+
+    with requests.Session() as session:
+        post = session.post(login_url, data=payload)
+        r = session.get(request_utl)
+        comps_json = json.loads(r.text)
+
+        if not path.exists(base_directory + 'data/events.json'):
+            save_json_to_file(base_directory + 'data/events.json', comps_json)
 
     # Read last saved data.
-    with open('data/events.json', 'r') as f:
+    with open(base_directory + 'data/events.json', 'r') as f:
         comps_json_old = json.load(f)
 
     # Compare old and just downloaded json.
     telegram_messages = []
     if comps_json != comps_json_old:
+        # Look for new or updated events.
         for comp_json in comps_json['nodes']:
+            is_updated_or_new = True
+
             for comp_json_old in comps_json_old['nodes']:
-                if comp_json != comp_json_old:
+                if comp_json == comp_json_old:
+                    is_updated_or_new = False
+                    break
+
+            if is_updated_or_new:
+                updated_status = False
+                for comp_json_old in comps_json_old['nodes']:
                     if comp_json['node']['Dogodek'] == comp_json_old['node']['Dogodek']:
                         if comp_json['node']['Registration Status'] != comp_json_old['node']['Registration Status']:
+                            updated_status = True
                             msg = report_updated_registration(
                                 comp_json['node'])
                             telegram_messages.append(msg)
 
-        # New events.
-        last_old_event = comps_json_old['nodes'][0]['node']
-        for comp_json in comps_json['nodes']:
-            if (comp_json['node']['Dogodek'] != last_old_event['Dogodek']):
-                # Probably new event.
-                msg = report_new_event(comp_json['node'])
-                telegram_messages.append(msg)
-            else:
-                break
+                if not updated_status:
+                    msg = report_new_event(comp_json['node'])
+                    telegram_messages.append(msg)
 
         # Save updated file.
-        save_json_to_file('data/events.json', comps_json)
+        save_json_to_file(base_directory + 'data/events.json', comps_json)
 
     # Return messages.
     return telegram_messages
