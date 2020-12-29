@@ -109,16 +109,18 @@ def read_slocomps():
                     break
 
             if is_updated_or_new:
-                updated_status = False
+                is_updated = False
+                is_new = True
                 for comp_json_old in comps_json_old['nodes']:
                     if comp_json['node']['Dogodek'] == comp_json_old['node']['Dogodek']:
+                        is_new = False
                         if comp_json['node']['Registration Status'] != comp_json_old['node']['Registration Status']:
-                            updated_status = True
+                            is_updated = True
                             msg = report_updated_registration(
                                 comp_json['node'])
                             telegram_messages.append(msg)
 
-                if not updated_status:
+                if is_new:
                     msg = report_new_event(comp_json['node'])
                     telegram_messages.append(msg)
 

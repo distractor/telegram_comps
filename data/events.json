@@ -2,40 +2,6 @@
   "nodes": [
     {
       "node": {
-        "Dogodek": "Ceglar going wild",
-        "Tip": "Liga 2021",
-        "Kat.": "FAI2",
-        "Od": "29.12.2020",
-        "Do": "31.12.2020",
-        "Dr\u017eava": "Serbia and Montenegro",
-        "Published": "27.12.2020 - 09:14",
-        "Updated": "27.12.2020 - 09:14",
-        "Lokacija": "Kopitnik",
-        "field_organization_ref": "",
-        "Organizator": "",
-        "Registration Status": "Open",
-        "Spaces used": "0"
-      }
-    },
-    {
-      "node": {
-        "Dogodek": "Kaver racing",
-        "Tip": "Liga 2021",
-        "Kat.": "FAI2",
-        "Od": "28.12.2020",
-        "Do": "29.12.2020",
-        "Dr\u017eava": "Serbia and Montenegro",
-        "Published": "27.12.2020 - 09:38",
-        "Updated": "27.12.2020 - 09:38",
-        "Lokacija": "Lisca, Kopitnik",
-        "field_organization_ref": "",
-        "Organizator": "",
-        "Registration Status": "Closed",
-        "Spaces used": "0"
-      }
-    },
-    {
-      "node": {
         "Dogodek": "ParaSnowflake 2020/2021",
         "Tip": "",
         "Kat.": "",
@@ -48,7 +14,7 @@
         "field_organization_ref": "",
         "Organizator": "",
         "Registration Status": "Open",
-        "Spaces used": "3"
+        "Spaces used": "5"
       }
     },
     {
@@ -2246,23 +2212,6 @@
     },
     {
       "node": {
-        "Dogodek": "XC FAI Dalmatian PG Open 20118 ",
-        "Tip": "",
-        "Kat.": "",
-        "Od": "",
-        "Do": "",
-        "Dr\u017eava": "Croatia",
-        "Published": "15.12.2017 - 19:30",
-        "Updated": "15.12.2017 - 19:30",
-        "Lokacija": "Hrvace-Sinj take off GREDA-SVILAJA",
-        "field_organization_ref": "",
-        "Organizator": "",
-        "Registration Status": "Closed",
-        "Spaces used": "0"
-      }
-    },
-    {
-      "node": {
         "Dogodek": "XC Paragliding Dalmatian open 2019",
         "Tip": "",
         "Kat.": "",
@@ -2272,6 +2221,23 @@
         "Published": "15.02.2019 - 20:08",
         "Updated": "15.02.2019 - 20:09",
         "Lokacija": "",
+        "field_organization_ref": "",
+        "Organizator": "",
+        "Registration Status": "Closed",
+        "Spaces used": "0"
+      }
+    },
+    {
+      "node": {
+        "Dogodek": "XC FAI Dalmatian PG Open 20118 ",
+        "Tip": "",
+        "Kat.": "",
+        "Od": "",
+        "Do": "",
+        "Dr\u017eava": "Croatia",
+        "Published": "15.12.2017 - 19:30",
+        "Updated": "15.12.2017 - 19:30",
+        "Lokacija": "Hrvace-Sinj take off GREDA-SVILAJA",
         "field_organization_ref": "",
         "Organizator": "",
         "Registration Status": "Closed",
