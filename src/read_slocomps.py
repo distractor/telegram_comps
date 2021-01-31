@@ -31,9 +31,8 @@ def report_updated_registration(json_obj):
     """
     name = json_obj['Dogodek']
     registration_status = json_obj['Registration Status']
-    event_url = "https://comps.sffa.org/event/{}".format(
-        name.replace(' ', '-').strip().lower())
-    msg = "New _SloComps_ notification: Registrations for *{}* are now *{}*. Check {} for more info.".format(
+    event_url = json_obj['Link']
+    msg = "New _SloComps_ notification: Registrations for *{}* are now *{}*. Check [event page]({}) for more info.".format(
         name, registration_status, event_url)
 
     return msg
@@ -55,9 +54,8 @@ def report_new_event(json_obj):
     location = json_obj['Lokacija']
     country = json_obj['Dr\u017eava']
     registration_status = json_obj['Registration Status']
-    event_url = "https://comps.sffa.org/event/{}".format(
-        name.replace(' ', '-').strip().lower())
-    msg = "New _SloComps_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Registrations are _{}_. Check {} for more info.".format(
+    event_url = json_obj['Link']
+    msg = "New _SloComps_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Registrations are _{}_. Check [event page]({}) for more info.".format(
         name, event_start, event_stop, location, country, registration_status, event_url)
 
     return msg
