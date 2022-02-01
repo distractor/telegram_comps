@@ -17,4 +17,5 @@ messages = remove_if_contains(messages, 'PGA')
 
 # Send messages to group.
 for msg in messages:
+    # print(msg)
     send_message(telegram_api, chat_id, msg)

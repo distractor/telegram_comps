@@ -66,11 +66,11 @@ def load_data():
     """
     # Download data.
     login_url = 'https://comps.sffa.org/user/login'
-    request_utl = 'https://comps.sffa.org/calendar'
+    request_url = 'https://comps.sffa.org/calendar'
 
     payload = {
         'name': 'telegram-bot',
-        'pass': 'vjUD`<bWen*9UdBz',
+        'pass': 'T?Y;sN7u8ePx7xzr',
         'form_build_id': 'form-YtrArwGYXwquwFw-38gr0VbCC_MD2hzfbpugAcFRyrY',
         'form_id': 'user_login',
         'op': 'Log+in'
@@ -79,8 +79,8 @@ def load_data():
     base_directory = 'telegram_comps/'
 
     with requests.Session() as session:
-        post = session.post(login_url, data=payload)
-        r = session.get(request_utl)
+        post = session.post(login_url, data=payload, verify=False)
+        r = session.get(request_url, verify=False)
         comps_json = json.loads(r.text)
 
     return comps_json
