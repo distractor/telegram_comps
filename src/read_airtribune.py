@@ -23,7 +23,7 @@ def load_next_events(ioc_codes):
     html_content = requests.get(url).text
 
     # Parse the html content.
-    soup = BeautifulSoup(html_content, "lxml")
+    soup = BeautifulSoup(html_content, features="html5lib")
 
     # Get raw event data.
     all_scripts = soup.find_all("script")
