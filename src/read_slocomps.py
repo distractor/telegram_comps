@@ -11,7 +11,7 @@ def read_slocomps():
     new_data = load_data()
     orig_data = new_data
     # Load old data.
-    with open('telegram_comps/data/events.json', 'r') as f:
+    with open('telegram_comps/data/events_slocomps.json', 'r') as f:
         old_data = json.load(f)
 
     # Find new comps.
@@ -22,7 +22,7 @@ def read_slocomps():
 
     # Save data.
     if msg:
-        save_json_to_file('telegram_comps/data/events.json', orig_data)
+        save_json_to_file('telegram_comps/data/events_slocomps.json', orig_data)
 
     return msg
 

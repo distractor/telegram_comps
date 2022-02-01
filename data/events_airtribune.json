@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Adrenalin Cup 2022",
+    "timezone": "Europe/Ljubljana",
+    "start_date": "2022-05-19",
+    "end_date": "2022-05-22",
+    "country": {
+      "flag-svg": "/static/flags-svg/si.svg",
+      "ioc_code": "SLO",
+      "flag": "/static/flags/si.gif",
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "timeoffset": 7200,
+    "id": 2255,
+    "place": "Tolmin, Slovenia",
+    "lat": 46.196958172396556,
+    "lon": 13.696009304052485,
+    "status": 3,
+    "googleplus_url": "",
+    "url": "/adrenalin-cup-2022/",
+    "sport": 0,
+    "fai_category": 2
+  },
+  {
+    "title": "6th Naviter Open 2022",
+    "timezone": "Europe/Ljubljana",
+    "start_date": "2022-06-12",
+    "end_date": "2022-06-18",
+    "country": {
+      "flag-svg": "/static/flags-svg/si.svg",
+      "ioc_code": "SLO",
+      "flag": "/static/flags/si.gif",
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "timeoffset": 7200,
+    "id": 2189,
+    "place": "Tolmin, Gabrje, Slovenia",
+    "lat": 46.19699035638012,
+    "lon": 13.695675460429978,
+    "status": 3,
+    "googleplus_url": "",
+    "url": "/naviteropen2022/",
+    "sport": 0,
+    "fai_category": 4
+  },
+  {
+    "title": "3rd Freedom Open, 2022",
+    "timezone": "Europe/Ljubljana",
+    "start_date": "2022-06-05",
+    "end_date": "2022-06-11",
+    "country": {
+      "flag-svg": "/static/flags-svg/si.svg",
+      "ioc_code": "SLO",
+      "flag": "/static/flags/si.gif",
+      "code": "SI",
+      "name": "Slovenia"
+    },
+    "timeoffset": 7200,
+    "id": 2237,
+    "place": "Tolmin, Slovenia",
+    "lat": 46.197010063791964,
+    "lon": 13.695698380470285,
+    "status": 3,
+    "googleplus_url": "",
+    "url": "/freedom-open/",
+    "sport": 0,
+    "fai_category": 4
+  }
+]

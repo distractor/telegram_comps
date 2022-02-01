@@ -28,7 +28,7 @@ def report_updated_registration(json_obj):
     name = json_obj['Dogodek']
     registration_status = json_obj['Registration Status']
     event_url = json_obj['Link']
-    msg = "New _SloComps_ notification: Registrations status for competition *{}* changed to *{}*. Check [event page]({}) for more info.".format(
+    msg = "New _Bot_ notification: Registrations status for competition *{}* changed to *{}*. Check [event page]({}) for more info.".format(
         name, registration_status, event_url)
 
     return msg
@@ -51,8 +51,10 @@ def report_new_event(json_obj):
     country = json_obj['Dr\u017eava']
     registration_status = json_obj['Registration Status']
     event_url = json_obj['Link']
-    msg = "New _SloComps_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Registrations are _{}_. Check [event page]({}) for more info.".format(
-        name, event_start, event_stop, location, country, registration_status, event_url)
+    if (registration_status == 'empty'):
+        msg = "New _Bot_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Check [event page]({}) for more info.".format(name, event_start, event_stop, location, country, event_url)
+    else:
+        msg = "New _Bot_ notification: New event published. *{}* will take place from *{}* to *{}* on {}({}). Registrations are _{}_. Check [event page]({}) for more info.".format(name, event_start, event_stop, location, country, registration_status, event_url)
 
     return msg
 
