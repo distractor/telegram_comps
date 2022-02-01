@@ -20,7 +20,7 @@ def load_next_events(ioc_codes):
     url="https://airtribune.com/events/next"
 
     # Make a GET request to fetch the raw HTML content.
-    html_content = requests.get(url).text
+    html_content = requests.get(url, verify=False).text
 
     # Parse the html content.
     soup = BeautifulSoup(html_content, features="html5lib")
